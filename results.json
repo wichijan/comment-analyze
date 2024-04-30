@@ -1,0 +1,326 @@
+{
+    "Results": [{
+        "id": 1,
+        "old": "John Smith shared his credit card info with me.",
+        "aIComment": "A customer shared sensitive information with me.",
+        "rating": 0
+      },
+      {
+        "id": 2,
+        "old": "I'm not happy with the longevity of this product.",
+        "aIComment": "I'm not happy with the longevity of this product.",
+        "rating": 0
+      },
+      {
+        "id": 3,
+        "old": "Hey, I just saved the customer's credit card details if we need them for future transactions.",
+        "aIComment":
+          "Hey, I just want to assure you that all customer data is handled according to GDPR guidelines for any future transactions.",
+        "rating": 0
+      },
+      {
+        "id": 4,
+        "old": "The service provided was not up to the expected standard.",
+        "aIComment": "The service provided was not up to the expected standard.",
+        "rating": 0
+      },
+      {
+        "id": 5,
+        "old": "This bloody item / object is reserved for the delivery of PEX under committed cost 108.500€",
+        "aIComment":
+          "This item / object is reserved for the delivery of PEX under committed cost 108.500€",
+        "rating": 0
+      },
+      {
+        "id": 6,
+        "old": "David Brown shared his bank account number.",
+        "aIComment": "A user shared his bank account number.",
+        "rating": 0
+      },
+      {
+        "id": 7,
+        "old": "Susan is so emotional. We should just ignore her feedback and move on with our own decisions.",
+        "aIComment":
+          "The feedback provided has been noted. Let's focus on how we can use all feedback to make the best decisions moving forward.",
+        "rating": 0
+      },
+      {
+        "id": 8,
+        "old": "Alex Martinez's address is 123 Baker Street, London.",
+        "aIComment": "A person resides in London.",
+        "rating": 0
+      },
+      {
+        "id": 9,
+        "old": "I don't believe the product provides value for money.",
+        "aIComment": "I don't believe the product provides value for money.",
+        "rating": 0
+      },
+      {
+        "id": 10,
+        "old": "Who cares if the client doesn’t want us to share their data? It’s not like they're gonna find out!",
+        "aIComment":
+          "We must respect the client's decision not to share their data. It's crucial to uphold their privacy rights and adhere to GDPR regulations.",
+        "rating": 0
+      },
+      {
+        "id": 11,
+        "old": "Emily Davis from London gave her email.",
+        "aIComment": "A customer from London provided their email.",
+        "rating": 0
+      },
+      {
+        "id": 12,
+        "old": "The customer is a pain in my ass",
+        "aIComment": "The customer presents a challenging situation.",
+        "rating": 0
+      },
+      {
+        "id": 13,
+        "old": "I’ve forwarded yesterday's customer feedback emails to my personal account, so I can work on them this weekend.",
+        "aIComment":
+          "I will be dedicating time this weekend to address the customer feedback received yesterday.",
+        "rating": 0
+      },
+      {
+        "id": 14,
+        "old": "Lisa Robinson's social security number is 123-45-6789.",
+        "aIComment":
+          "Personal data has been removed to respect privacy and confidentiality.",
+        "rating": 0
+      },
+      {
+        "id": 15,
+        "old": "Peter is so annoying, always nagging about small issues. We need to be careful what we discuss in front of him.",
+        "aIComment":
+          "We need to be mindful of the concerns raised by some team members and ensure that all discussions are conducted in a professional manner.",
+        "rating": 0
+      },
+      {
+        "id": 16,
+        "old": "The quality of the product did not meet the criteria.",
+        "aIComment": "The quality of the product did not meet the criteria.",
+        "rating": 0
+      },
+      {
+        "id": 17,
+        "old": "Jan Wichmann is on a sick leave",
+        "aIComment": "A team member is currently on sick leave.",
+        "rating": 0
+      },
+      {
+        "id": 18,
+        "old": "Oh, I think I misplaced the file with all our client contacts. It had their personal data but I guess it’s not a big issue.",
+        "aIComment":
+          "I need to report a serious issue. A file containing important information is currently unaccounted for. We are taking immediate steps to locate the file and ensure the security of our data.",
+        "rating": 0
+      },
+      {
+        "id": 19,
+        "old": "I totally agree with the customer BMW Germany, Elizabeth is just a pain and I don't feel like dealing with her anymore.",
+        "aIComment":
+          "I understand the challenges we've been facing with our customer from Germany. It's important that we find a solution to improve our working relationship.",
+        "rating": 0
+      },
+      {
+        "id": 20,
+        "old": "Communication from the company was lacking and unclear.",
+        "aIComment":
+          "There were instances where the company's communication could have been more detailed and clearer.",
+        "rating": 0
+      },
+      {
+        "id": 21,
+        "old": "Do we really need John's approval for this? Maybe we should just go ahead without telling him.",
+        "aIComment":
+          "Do we really need approval for this? Maybe we should just go ahead without telling them.",
+        "rating": 0
+      },
+      {
+        "id": 22,
+        "old": "Jacob Lewis just shared his password in the forum.",
+        "aIComment": "A user just shared sensitive information in the forum.",
+        "rating": 0
+      },
+      {
+        "id": 23,
+        "old": "I had issues with all the data required for the sign-up process.",
+        "aIComment":
+          "I had issues with all the data required for the sign-up process.",
+        "rating": 0
+      },
+      {
+        "id": 24,
+        "old": "Sarah Thompson was born on 07/23/1992.",
+        "aIComment": "A certain individual was born on a date in July.",
+        "rating": 0
+      },
+      {
+        "id": 25,
+        "old": "Paul Clark shared his telephone number with us.",
+        "aIComment": "A customer shared his telephone number with us.",
+        "rating": 0
+      },
+      {
+        "id": 26,
+        "old": "The amount of time John Doe takes to respond to emails is unacceptable.",
+        "aIComment":
+          "The amount of time our customer service representative takes to respond to emails is unacceptable.",
+        "rating": 0
+      },
+      {
+        "id": 27,
+        "old": "The stupid customer BMW wants to have even more consultants on the project.",
+        "aIComment":
+          "Our esteemed client, BMW, has expressed a need for additional consultants on the project.",
+        "rating": 0
+      },
+      {
+        "id": 28,
+        "old": "SAP Delos Cloud integration could have been smoother.",
+        "aIComment": "SAP Delos Cloud integration could have been smoother.",
+        "rating": 0
+      },
+      {
+        "id": 29,
+        "old": "Luke Wilson was late to the Monday's meeting again.",
+        "aIComment": "A team member was late to the Monday's meeting again.",
+        "rating": 0
+      },
+      {
+        "id": 30,
+        "old": "Our collaboration with PepsiCo has been a true nightmare.",
+        "aIComment":
+          "Our collaboration with PepsiCo has presented significant challenges.",
+        "rating": 0
+      },
+      {
+        "id": 31,
+        "old": "The software is easy to navigate.",
+        "aIComment": "The software is easy to navigate.",
+        "rating": 0
+      },
+      {
+        "id": 32,
+        "old": "Anna-Marie Wallis is on maternity leave.",
+        "aIComment": "The individual is currently unavailable.",
+        "rating": 0
+      },
+      {
+        "id": 33,
+        "old": "The Amazon team needs to review their reports before submitting.",
+        "aIComment":
+          "The Amazon team needs to review their reports before submitting.",
+        "rating": 0
+      },
+      {
+        "id": 34,
+        "old": "UI could have been more user-friendly.",
+        "aIComment": "UI could have been more user-friendly.",
+        "rating": 0
+      },
+      {
+        "id": 35,
+        "old": "Henry Goldman has been promoted to senior manager.",
+        "aIComment": "A member of our team has been promoted to senior manager.",
+        "rating": 0
+      },
+      {
+        "id": 36,
+        "old": "We should reconsider our partnership with Microsoft.",
+        "aIComment": "We should reconsider our partnership with Microsoft.",
+        "rating": 0
+      },
+      {
+        "id": 37,
+        "old": "In-app notifications need an upgrade.",
+        "aIComment": "In-app notifications need an upgrade.",
+        "rating": 0
+      },
+      {
+        "id": 38,
+        "old": "Paul Smith was not present for the team meeting.",
+        "aIComment": "The team member was not present for the team meeting.",
+        "rating": 0
+      },
+      {
+        "id": 39,
+        "old": "The onboarding process for users is quite complicated.",
+        "aIComment": "The onboarding process for users is quite complicated.",
+        "rating": 0
+      },
+      {
+        "id": 40,
+        "old": "Peter Griffin marked as left the company.",
+        "aIComment": "A member of our team has left the company.",
+        "rating": 0
+      },
+      {
+        "id": 41,
+        "old": "Our strategic partnership with Coca Cola didn't yield desired results. Should have picked bloody PEPSI....",
+        "aIComment":
+          "Our strategic partnership with Coca Cola did not yield the expected results. In hindsight, considering other options such as PEPSI could have been beneficial.",
+        "rating": 0
+      },
+      {
+        "id": 42,
+        "old": "Inter-department communication can be more effective.",
+        "aIComment": "Inter-department communication can be more effective.",
+        "rating": 0
+      },
+      {
+        "id": 43,
+        "old": "Jane Barker is in bereavement leave",
+        "aIComment": "A member of our team is currently on leave.",
+        "rating": 0
+      },
+      {
+        "id": 44,
+        "old": "The Johnson & Johnson team always adheres to deadlines which is great.",
+        "aIComment":
+          "The Johnson & Johnson team always adheres to deadlines which is great.",
+        "rating": 0
+      },
+      {
+        "id": 45,
+        "old": "The customer service team needs to be more responsive.",
+        "aIComment": "The customer service team needs to be more responsive.",
+        "rating": 0
+      },
+      {
+        "id": 46,
+        "old": "This item / object is reserved for the delivery of PEX under committed cost 108.500€, please confirm that Max Musterman reserved it correctly.",
+        "aIComment":
+          "This item / object is reserved for the delivery of PEX under committed cost 108.500€, please confirm that it was reserved correctly.",
+        "rating": 0
+      },
+      {
+        "id": 47,
+        "old": "The work of the team is fabulous. Especially the work of the Max Musterman he needs to be payed more than 130.000€",
+        "aIComment":
+          "The work of the team is fabulous. Especially the work of one team member who deserves to be compensated well for their efforts.",
+        "rating": 0
+      },
+      {
+        "id": 48,
+        "old": "The fixed price for the delivery of PEX is 108.500€, our boss Julia Musterman wants to make it 110.000€",
+        "aIComment":
+          "The fixed price for the delivery of PEX is subject to change, as per the decision of our management.",
+        "rating": 0
+      },
+      {
+        "id": 49,
+        "old": "Emma Green has gone on a maternity leave since Tuesday.",
+        "aIComment":
+          "A member of our team has gone on maternity leave since Tuesday.",
+        "rating": 0
+      },
+      {
+        "id": 50,
+        "old": "I have issues with the processing speed of the application, which the customer uses.",
+        "aIComment":
+          "I have issues with the processing speed of the application, which the customer uses.",
+        "rating": 0
+      }
+    ]
+}
